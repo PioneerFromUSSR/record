@@ -3,7 +3,7 @@
 
 Как запустить
 
-git clone https://github.com/KernelPanic33/record.git
+git clone https://github.com/PioneerFromUSSR/record.git
 
 npm install
 
