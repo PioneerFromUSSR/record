@@ -9,7 +9,7 @@ npm install
 
 запустить node server.js из папки web_server 
 
-пройти по адресу https://localhost:8080
+пройти по адресу https://localhost:8000
 
 Перед запуском проекта создайте папку security и положите в нее
 закрытый ключ и сертификат SSL с именами sert.key и cert.pem
